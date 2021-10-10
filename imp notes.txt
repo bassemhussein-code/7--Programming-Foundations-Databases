@@ -1,0 +1,49 @@
+first thing : the file system .. 
+second thing : the data base management system . 
+third thing  : the data base design  includes the four levels . conceptual level is the level that create the data model . 
+                & the physical level is the level : lower then the previous model . 
+
+
+fourth thing : the advantages of using the data base management system 
+fifth thing : the dbms structure  and these queres 
+sixth thing : the data base design 
+seventh thing  : entites : is the object 
+eighth thing : relationships  : the relation ship between 2 entities called binary relation 
+                              : the relation ship beteen more than 3 entities called ternay relation 
+                              : the attributes by the relation is called descriptive attribute
+                              : types of relations : many to many , one to many , one to one 
+nineth thing : more about the ER model ( entity relaion ) :  total participation : each entity in the entity set participates in the data base 
+             : the week entity 
+             : class hierarchies   (is a ) 
+             : aggregation          (instead of ternary relationship ) 
+             
+tenth thing : conceptual design : how we store the attributes .  is it just an attribute  or we store an entity and make attr for it 
+            : attr to relation or attr to entity 
+            : binary vs ternay relation 
+            : aggregation vs ternary relationship   
+
+
+the previous step  is a very big step   .. don't skip it 
+
+
+11th        : types of db (relational ) & (non-relational) .. sql essential .. how to deal with data .. create . insert .. delete .. update .. 
+
+12th        : logical design ..one to many .. many to many .. 
+13th        : ACID properities 
+14th        : no sql ..     no schema .. integrety problem .......... BASE properities ........ types of no sql 
+                                                                                                1 key _ value 
+                                                                                                2 column _oriented 
+                                                                                                3 document _ oriented 
+                                                                                                4 graph _ oriented 
+
+
+         
+
+
+
+
+ 
+
+ 
+
+
